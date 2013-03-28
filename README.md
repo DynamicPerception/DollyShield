@@ -10,27 +10,27 @@ To purchase solder-yourself-kits, please go here: http://dynamicperception.com/p
 Features
 --------
 
-=== Two- or Four-Axis Motion Control
+#### Two- or Four-Axis Motion Control
 
 The DollyShield supports two DC brushed motor axes directly using the built-in motor drivers.  An additional two axes of motion in pan and tilt can be added simply by hooking up a Merlin Telescope Head to the DollyShield.
 
 
-=== Integrated Camera Control
+#### Integrated Camera Control
 
 Hook any camera with a supported remote cable up to the DollyShield and start shooting motion-integrated timelapse videos right away.  No need for additional intervalometers or other electronics to synchronize the camera with the motion.  Control every aspect of the exposure, including auto-focus and exposure on-camera or controlled by the DollyShield.
 
 
-=== Advanced Motion Capabilities
+### Advanced Motion Capabilities
 
 The DollyShield can run all axes of motion in both continuous and interleaved (shoot-move-shoot) modes.  Complete control of the output motion including ramping/feathering in the output video and delayed lead-ins are possible with the DollyShield.
 
 
-=== Power-Saving Features
+#### Power-Saving Features
 
 Auto-dim the screen, or disable it completely on a timer to reduce power draw when shooting in the field.  Advanced motor control reduces power draw during continuous motion moves.
 
 
-=== Auxiliary Inputs / Outputs
+#### Auxiliary Inputs / Outputs
 
 Interact with your environment, integrate with other systems and expand your capabilities.  The DollyShield is ready to take inputs and make changes to the program on the fly based on triggers from external sources.  Switches, relays, and more can be used in conjunction with the DollyShield.
 
